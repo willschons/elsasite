@@ -11,7 +11,7 @@
 
 ?>
 
-	</div><!-- #content -->
+
 			<!-- Footer -->
 				<footer id="footer">
 
@@ -28,7 +28,7 @@
 					</ul>
 
 				</footer>
-
+	</div><!-- #content -->
 		</div>
 
 <?php wp_footer(); ?>

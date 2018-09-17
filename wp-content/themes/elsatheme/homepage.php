@@ -26,16 +26,14 @@ get_header();
 					<div class="inner">
 
 						<header>
-							<h2>TWENTY</h2>
+							<h2>ELSA</h2>
 						</header>
-						<p>This is <strong>Twenty</strong>, a free
+						<p>Estudo Longitudinal de <strong> Saúde </strong>
 						<br />
-						responsive template
-						<br />
-						by <a href="http://html5up.net">HTML5 UP</a>.</p>
+						do Adulto .</p>
 						<footer>
 							<ul class="buttons stacked">
-								<li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
+								<li><a href="#main" class="button fit scrolly">Conhecer</a></li>
 							</ul>
 						</footer>
 
@@ -211,4 +209,4 @@ get_header();
 
 				</section>
 <?php
-get_footer();
+get_footer(); ?>
