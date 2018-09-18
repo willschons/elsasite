@@ -23,17 +23,17 @@ get_header();
 						automatically wrap lines, so be sure to use line breaks where
 						appropriate (<br />).
 					-->
-					<div class="inner">
+					<div class="inner" style="background:#FFF;">
 
-						<header>
-							<h2>ELSA</h2>
+						<header style="margin-top:1%;">
+							<h2><a href="index.html"><img src="http://localhost/elsasite/wp-content/uploads/2018/09/481179_449294435149178_1104400771_n.jpg" class="custom-logo" alt=""> <span></span></a></h2>
 						</header>
-						<p>Estudo Longitudinal de <strong> Saúde </strong>
+						<p style="color:#6689CC!important;">Estudo Longitudinal de <strong> Saúde </strong>
 						<br />
 						do Adulto .</p>
 						<footer>
 							<ul class="buttons stacked">
-								<li><a href="#main" class="button fit scrolly">Conhecer</a></li>
+								<li><a href="#main" class="button fit scrolly" style=" background:#FFF;color:#6689CC;">Conhecer</a></li>
 							</ul>
 						</footer>
 

@@ -26,28 +26,22 @@
 <div id="page" class="site">
 
 
-		<header id="header" class="alt">
-					<h1 id="logo"><a href="index.html">Projeto <span>ELSA</span></a></h1>
+	<!-- Header -->
+				<header id="header" class="alt">
+					<h1 id="logo"><a href="index.html">Twenty <span>by HTML5 UP</span></a></h1>
 					<nav id="nav">
 						<ul>
-							<li class="current"><a href="index.html">Welcome</a></li>
+						
 							<li class="submenu">
 								<a href="#">Layouts</a>
 								<ul>
-
-
+									<li><a href="">Left Sidebar</a></li>
+							</li>
 									<li><a href="contact.html">Contact</a></li>
-									<li class="submenu">
-										<a href="#">Submenu</a>
-										<ul>
-											<li><a href="#">Dolore Sed</a></li>
-										</ul>
-									</li>
+									
 								</ul>
 							</li>
-							<li><a href="#" class="button primary">Login</a></li>
+							
 						</ul>
 					</nav>
-				</header><!-- #masthead -->
-
-
+				</header>

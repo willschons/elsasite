@@ -24,7 +24,7 @@
 					</ul>
 
 					<ul class="copyright">
-						<li>&copy; PROJETO</li><li>ELSA: <a href="http://html5up.net">!</a></li>
+						<li>&copy; PROJETO</li><li>ELSA <a href="http://html5up.net"></a></li>
 					</ul>
 
 				</footer>
