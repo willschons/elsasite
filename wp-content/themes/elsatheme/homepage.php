@@ -26,7 +26,7 @@ get_header();
 					<div class="inner" style="background:#FFF;">
 
 						<header style="margin-top:1%;">
-							<h2><a href="index.html"><img src="http://localhost/elsasite/wp-content/uploads/2018/09/481179_449294435149178_1104400771_n.jpg" class="custom-logo" alt=""> <span></span></a></h2>
+							<h2><a href="index.html"><img src="http://localhost/elsasite/wp-content/uploads/2018/09/logo-elsa.png" class="custom-logo" alt=""> <span></span></a></h2>
 						</header>
 						<p style="color:#6689CC!important;">Estudo Longitudinal de <strong> Saúde </strong>
 						<br />
@@ -46,15 +46,10 @@ get_header();
 
 					<header class="special container">
 						<span class="icon fa-bar-chart-o"></span>
-						<h2>As this is my <strong>twentieth</strong> freebie for HTML5 UP
+						<h2>O Estudo Longitudinal de Saúde do Adulto<strong> - ELSA Brasil - </strong></h2>
+						<p>O Estudo Longitudinal de Saúde do Adulto<strong> - ELSA Brasil - </strong> é uma investigação multicêntrica de coorte composta por 15 mil,
 						<br />
-						I decided to give it a really creative name.</h2>
-						<p>Turns out <strong>Twenty</strong> was the best I could come up with. Anyway, lame name aside,
-						<br />
-						it's minimally designed, fully responsive, built on HTML5/CSS3,
-						and, like all my stuff,
-						<br />
-						released for free under the <a href="http://html5up.net/license">Creative Commons Attribution 3.0</a> license. Have fun!</p>
+						funcionários de seis instituições públicas de ensino superior e pesquisa das regiões Nordeste,Sul e Sudeste do Brasil. A pesquisa tem o propósito de investigar a incidência e os fatores de risco para doenças crônicas, em particular, as cardiovasculares e o diabetes.</p>
 					</header>
 
 					<!-- One -->
