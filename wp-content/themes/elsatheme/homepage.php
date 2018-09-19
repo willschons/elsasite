@@ -15,55 +15,30 @@
 get_header();
 ?>
 <!-- Banner -->
-				<section id="banner">
-
-					<!--
-						".inner" is set up as an inline-block so it automatically expands
-						in both directions to fit whatever's inside it. This means it won't
-						automatically wrap lines, so be sure to use line breaks where
-						appropriate (<br />).
-					-->
-					<div class="inner" style="background:#FFF;">
-
-						<header style="margin-top:1%;">
-							<h2><a href="index.html"><img src="http://localhost/elsasite/wp-content/uploads/2018/09/logo-elsa.png" class="custom-logo" alt=""> <span></span></a></h2>
-						</header>
-						<p style="color:#6689CC!important;">Estudo Longitudinal de <strong> Saúde </strong>
-						<br />
-						do Adulto .</p>
-						<footer>
-							<ul class="buttons stacked">
-								<li><a href="#main" class="button fit scrolly" style=" background:#FFF;color:#6689CC;">Conhecer</a></li>
-							</ul>
-						</footer>
-
-					</div>
-
-				</section>
-
+		
 			<!-- Main -->
-				<article id="main">
+				<article id="main" >
 
-					<header class="special container">
-						<span class="icon fa-bar-chart-o"></span>
-						<h2>O Estudo Longitudinal de Saúde do Adulto<strong> - ELSA Brasil - </strong></h2>
-						<p>O Estudo Longitudinal de Saúde do Adulto<strong> - ELSA Brasil - </strong> é uma investigação multicêntrica de coorte composta por 15 mil,
-						<br />
-						funcionários de seis instituições públicas de ensino superior e pesquisa das regiões Nordeste,Sul e Sudeste do Brasil. A pesquisa tem o propósito de investigar a incidência e os fatores de risco para doenças crônicas, em particular, as cardiovasculares e o diabetes.</p>
-					</header>
+
 
 					<!-- One -->
-						<section class="wrapper style2 container special-alt">
+						<section class="wrapper style2 container special-alt" >
 							<div class="row gtr-50">
 								<div class="col-8 col-12-narrower">
-
+					<div class="special container">
+						<span class="icon fa-bar-chart-o"></span>
+						<h2>O Estudo Longitudinal de Saúde do Adulto <strong>ELSA Brasil</strong></h2>
+						<p>É uma investigação multicêntrica de coorte composta por 15 mil,
+						<br />
+						funcionários de seis instituições públicas de ensino superior e pesquisa das regiões Nordeste,Sul e Sudeste do Brasil. A pesquisa tem o propósito de investigar a incidência e os fatores de risco para doenças crônicas, em particular, as cardiovasculares e o diabetes.</p>
+					</div>
 									<header>
-										<h2>Behold the <strong>icons</strong> that visualize what you’re all about. or just take up space. your call bro.</h2>
+										<h2>Em cada centro integrante do estudo, <strong>os sujeitos da pesquisa</strong> com idade entre 35 e 74 anos – fazem exames e entrevistas.</h2>
 									</header>
-									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu comteger ut fermentum lorem. Lorem ipsum dolor sit amet. Sed tristique purus vitae volutpat ultrices. eu elit eget commodo. Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo.</p>
+									<p>Nas quais são avaliados aspectos como condições de vida, diferenças sociais, relação com o trabalho, gênero e especificidades da dieta da população brasileira.</p>
 									<footer>
 										<ul class="buttons">
-											<li><a href="#" class="button">Find Out More</a></li>
+											<li><a href="#" class="button">Conheça mais</a></li>
 										</ul>
 									</footer>
 
@@ -82,7 +57,28 @@ get_header();
 								</div>
 							</div>
 						</section>
+<section class="wrapper style4 container">
 
+							<!-- Content -->
+								<div class="content">
+									<section style="text-align:center;">
+										
+										<header>
+											<h3><strong>Histórico</strong></h3>
+										</header>
+										<p>Nas últimas décadas, profundas transformações sociais, econômicas e demográficas fizeram com que o Brasil vivenciasse um grande crescimento da ocorrência de doenças crônicas.
+</p>
+										<p>Fatores como urbanização acelerada e modificações da estrutura familiar colaboraram para que, em 2002, tais enfermidades já respondessem por 75% dos gastos com internações hospitalares no Sistema Único de Saúde (SUS).</p>
+										<p>Devido à escassez de estudos longitudinais em populações adultas que investiguem as mudanças ocorridas em várias regiões brasileiras, a incidência dessas doenças e seus fatores de risco ainda são pouco conhecidos.</p>
+										<p>Buscando sanar essa lacuna, o Ministério da Saúde, em parceria com o Ministério da Ciência e Tecnologia, propôs o desenvolvimento do ELSA – estudo de coorte que busca investigar o desenvolvimento de doenças crônicas, em particular, das cardiovasculares e do diabetes.</p>
+										<p class="image featured" style=" width:50%!important; margin-left: 26%; display: unset;"><img src="http://localhost/elsasite/wp-content/uploads/2018/09/banner.jpg" style=" width:50%; margin-left: 24%;" alt=""><span style="font-size:0.53em;">Imagem retirada do FREEPIK</span></p>
+										<p>Para isso, foi selecionado um consórcio formado por seis instituições de diferentes estados do país: Fundação Oswaldo Cruz (Rio de Janeiro), Universidade de São Paulo (USP), e as universidades federais da Bahia (UFBA), Espírito Santo (Ufes), Minas Gerais (UFMG) e Rio Grande do Sul UFRGS).
+
+</p>
+									</section>
+								</div>
+
+						</section>
 					<!-- Two -->
 						<section class="wrapper style1 container special">
 							<div class="row">
@@ -91,9 +87,9 @@ get_header();
 									<section>
 										<span class="icon featured fa-check"></span>
 										<header>
-											<h3>This is Something</h3>
+											<h3>ELSA monitoramento de Saúde</h3>
 										</header>
-										<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+										<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/6OtUcBMVdOM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 									</section>
 
 								</div>
@@ -102,9 +98,9 @@ get_header();
 									<section>
 										<span class="icon featured fa-check"></span>
 										<header>
-											<h3>Also Something</h3>
+											<h3>18º Congresso UNIDAS - ELSA</h3>
 										</header>
-										<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+										<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/SGcIxH2juKs?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 									</section>
 
 								</div>
@@ -113,9 +109,9 @@ get_header();
 									<section>
 										<span class="icon featured fa-check"></span>
 										<header>
-											<h3>Probably Something</h3>
+											<h3>Sala de Convidados - ELSA</h3>
 										</header>
-										<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+										<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/LjN4vxhgDa4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 									</section>
 
 								</div>
@@ -126,64 +122,10 @@ get_header();
 						<section class="wrapper style3 container special">
 
 							<header class="major">
-								<h2>Next look at this <strong>cool stuff</strong></h2>
+								<h2>Notícias em<strong> Destaque</strong></h2>
 							</header>
 
-							<div class="row">
-								<div class="col-6 col-12-narrower">
-
-									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-										<header>
-											<h3>A Really Fast Train</h3>
-										</header>
-										<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-									</section>
-
-								</div>
-								<div class="col-6 col-12-narrower">
-
-									<section>
-										<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-										<header>
-											<h3>An Airport Terminal</h3>
-										</header>
-										<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-									</section>
-
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-6 col-12-narrower">
-
-									<section>
-										<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-										<header>
-											<h3>Hyperspace Travel</h3>
-										</header>
-										<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-									</section>
-
-								</div>
-								<div class="col-6 col-12-narrower">
-
-									<section>
-										<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-										<header>
-											<h3>And Another Train</h3>
-										</header>
-										<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-									</section>
-
-								</div>
-							</div>
-
-							<footer class="major">
-								<ul class="buttons">
-									<li><a href="#" class="button">See More</a></li>
-								</ul>
-							</footer>
-
+		<?php echo do_shortcode( '[post_grid id="127"]' ); ?>
 						</section>
 
 				</article>
@@ -192,14 +134,12 @@ get_header();
 				<section id="cta">
 
 					<header>
-						<h2>Ready to do <strong>something</strong>?</h2>
-						<p>Proin a ullamcorper elit, et sagittis turpis integer ut fermentum.</p>
+						<h2>Gostaria de receber <strong>Novidades?</strong>?</h2>
+						<p>Assine nossa Newsletter</p>
 					</header>
 					<footer>
-						<ul class="buttons">
-							<li><a href="#" class="button primary">Take My Money</a></li>
-							<li><a href="#" class="button">LOL Wut</a></li>
-						</ul>
+
+		<?php echo do_shortcode( '[post_grid id="127"]' ); ?>
 					</footer>
 
 				</section>

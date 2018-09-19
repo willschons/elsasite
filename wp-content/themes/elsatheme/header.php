@@ -18,30 +18,25 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/main.css" />
 	<noscript><link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/noscript.css" /></noscript>
-
+        <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/assets/css/style3.css" />
+		<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/modernizr.custom.86080.js"></script>
 	<?php wp_head(); ?>
 </head>
 
 <body <?php body_class(); ?>>
-<div id="page" class="site">
+<div id="page" class="site" style="background:#FFF;">
 
 
-	<!-- Header -->
-				<header id="header" class="alt">
-					<h1 id="logo"><a href="index.html">Twenty <span>by HTML5 UP</span></a></h1>
+	<!-- Header --><img src="http://localhost/elsasite/wp-content/uploads/2018/09/logo-elsa.png" alt="ELSA" style="width:20%;"/>
+				<header id="header" class="alt" style="float:right!important; margin-top:3%;">
+					<h1 id="logo" style="background:#000;"><a href="index.html"><span></span></a></h1>
 					<nav id="nav">
-						<ul>
-						
-							<li class="submenu">
-								<a href="#">Layouts</a>
-								<ul>
-									<li><a href="">Left Sidebar</a></li>
-							</li>
-									<li><a href="contact.html">Contact</a></li>
-									
-								</ul>
-							</li>
-							
-						</ul>
+						        <?php wp_nav_menu(array(
+           	'theme_location' => 'menu-1',
+			'menu_id'        => 'primary-menu',
+            'menu_class' => 'dropdown-menu forAnimate', // add classes for the dropdown
+            'container'  => '', // don't wrap the menu in <div>
+            'items_wrap' => '<ul id="%1$s" class="%2$s" role="menu" >%3$s</ul>',
+        ));?>
 					</nav>
 				</header>
