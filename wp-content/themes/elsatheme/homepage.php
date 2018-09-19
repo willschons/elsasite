@@ -22,7 +22,7 @@ get_header();
 
 
 					<!-- One -->
-						<section class="wrapper style2 container special-alt" >
+						<section class="wrapper style2 container special-alt" style="background-color: #6689CC; width:100%;" >
 							<div class="row gtr-50">
 								<div class="col-8 col-12-narrower">
 					<div class="special container">
@@ -139,7 +139,7 @@ get_header();
 					</header>
 					<footer>
 
-		<?php echo do_shortcode( '[post_grid id="127"]' ); ?>
+		<?php echo do_shortcode( '[contact-form-7 id="139" title="Newsletter Inscrição"]' ); ?>
 					</footer>
 
 				</section>
