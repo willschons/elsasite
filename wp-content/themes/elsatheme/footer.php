@@ -40,6 +40,9 @@
 			<script src="<?php bloginfo('template_url'); ?>/assets/js/breakpoints.min.js"></script>
 			<script src="<?php bloginfo('template_url'); ?>/assets/js/util.js"></script>
 			<script src="<?php bloginfo('template_url'); ?>/assets/js/main.js"></script>
+					<script src='<?php bloginfo('template_url'); ?>/assets/partjs/anime.min.js'></script>
+	    <script src='<?php bloginfo('template_url'); ?>/assets/partjs/particles.js'></script>
+	    <script src='<?php bloginfo('template_url'); ?>/assets/partjs/demo.js'></script>
 
 </body>
 </html>

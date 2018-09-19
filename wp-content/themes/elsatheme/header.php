@@ -21,13 +21,14 @@
         <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/assets/css/style3.css" />
 		<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/modernizr.custom.86080.js"></script>
 	<?php wp_head(); ?>
+
 </head>
 
 <body <?php body_class(); ?>>
 <div id="page" class="site" style="background:#FFF;">
 
 
-	<!-- Header --><img src="http://localhost/elsasite/wp-content/uploads/2018/09/logo-elsa.png" alt="ELSA" style="width:20%;"/>
+	<!-- Header --><img src="http://localhost/elsasite/wp-content/uploads/2018/09/logo-elsa.png" alt="ELSA" style="width:11%;"/>
 				<header id="header" class="alt" style="float:right!important; margin-top:3%;">
 					<h1 id="logo" style="background:#000;"><a href="index.html"><span></span></a></h1>
 					<nav id="nav">
