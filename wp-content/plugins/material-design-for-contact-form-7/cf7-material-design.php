@@ -10,7 +10,7 @@
  * Plugin Name:       Material Design for Contact Form 7
  * Plugin URI:        https://cf7materialdesign.com
  * Description:       Add Google's Material Design to your Contact Form 7 forms
- * Version:           2.1.2
+ * Version:           2.1.3
  * Author:            Contact Form 7 Addons
  * Author URI:        https://profiles.wordpress.org/contactform7addons/
  * License:           GPL-2.0+
@@ -28,7 +28,7 @@ if ( !function_exists( 'cf7md_fs' ) ) {
     /**
      * Set constants
      */
-    define( 'CF7MD_VER', '2.1.2' );
+    define( 'CF7MD_VER', '2.1.3' );
     define( 'CF7MD_UPDATE_MESSAGE', '1' );
     // Increment this every time a release is made that has a 'new features' message on the plugin page
     define( 'CF7MD_PLUGIN_DIR', plugin_dir_url( __FILE__ ) );
@@ -128,7 +128,7 @@ if ( !function_exists( 'cf7md_fs' ) ) {
      */
     $version_switch = get_option( 'cf7md_options[version_switch]' );
     $plugin_ver = get_option( 'cf7md_options[plugin_ver]' );
-    $upgraded = boolval( get_option( 'cf7md_options[upgraded_from_v1]' ) );
+    $upgraded = (bool) get_option( 'cf7md_options[upgraded_from_v1]' );
     $use = 'v2';
     
     if ( !$version_switch ) {

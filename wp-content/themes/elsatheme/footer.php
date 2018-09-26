@@ -17,7 +17,7 @@
 
 					<ul class="icons">
 				
-						<li><a href="#https://www.facebook.com/elsabrasil/" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.facebook.com/elsabrasil/" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
 						
 						
 					</ul>

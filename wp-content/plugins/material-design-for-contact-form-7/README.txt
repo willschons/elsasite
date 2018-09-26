@@ -102,6 +102,9 @@ OR go to 'Plugins' > 'Add new', and search for 'material design for contact form
 6. Shortcode generator
 
 == Changelog ==
+= 2.1.3 =
+* Fix a PHP compatibility error
+
 = 2.1.2 =
 * Fix an old bug in pre CF7v5 acceptance fields
 

@@ -28,7 +28,7 @@
 <div id="page" class="site" style="background:#FFF;">
 
 
-	<!-- Header --><img src="http://localhost/elsasite/wp-content/uploads/2018/09/logo-elsa.png" alt="ELSA" style="width:11%;"/>
+	<!-- Header --><a href="http://localhost/elsa/" alt=""><img src="http://localhost/elsa/wp-content/uploads/2018/09/logo-elsa.png" alt="ELSA" class="logoelsa"/></a>
 				<header id="header" class="alt" style="float:right!important; margin-top:3%;">
 					<h1 id="logo" style="background:#000;"><a href="index.html"><span></span></a></h1>
 					<nav id="nav">

@@ -18,14 +18,11 @@
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/font-awesome.min.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/main.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/main.css" type="text/css" media="screen" />
 
 <?php wp_head(); ?>
 </head>
 
-<body class="index is-preload" >
+<body <?php body_class(); ?>>
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyseventeen' ); ?></a>
 

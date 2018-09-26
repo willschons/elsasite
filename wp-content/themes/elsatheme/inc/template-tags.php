@@ -79,7 +79,7 @@ if ( ! function_exists( 'elsatheme_entry_footer' ) ) :
 				sprintf(
 					wp_kses(
 						/* translators: %s: post title */
-						__( 'Leave a Comment<span class="screen-reader-text"> on %s</span>', 'elsatheme' ),
+						__( 'Comentários <span class="screen-reader-text"> em%s</span>', 'elsatheme' ),
 						array(
 							'span' => array(
 								'class' => array(),
